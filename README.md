@@ -1,5 +1,7 @@
 # event_badge_creation
 
+Prerequisite is Windows environment with MS-Office applications installed, especially, MS-Powerpoint.
+
 ## Intermediate Badge (Badge in PPT)
  * Replace the input file in edit_ppt_badge.py at #109 with actual absolute location
 
